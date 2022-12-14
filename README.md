@@ -1,7 +1,8 @@
 # Kubeflow Manifests
 
 ## Table of Contents
-
+This repository was created based on v1.6.1.
+When installing, install istio 1.16.1 version separately and then install each component.
 <!-- toc -->
 
 - [Overview](#overview)
